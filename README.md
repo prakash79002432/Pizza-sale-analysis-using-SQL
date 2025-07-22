@@ -1,2 +1,2 @@
-# Pizza-sale-analysis-using-SQL
-case study
+# Pizza-sales-analysis-using-SQL
+
